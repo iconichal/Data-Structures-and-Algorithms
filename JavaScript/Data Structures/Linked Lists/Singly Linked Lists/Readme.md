@@ -17,7 +17,7 @@
 
 ## What is a Linked List?
 
-![Singly Linked Lists](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e64831f5-c326-41e8-9cb3-d7f7032e5252/Capture.png)
+![Singly Linked Lists](https://i.imgur.com/Zh1FEAB.png)
 
 - A data structure that contains a **head**, **tail** and **length** property
 - Linked Lists consists of nodes, and each **node** has a value and a **pointer** to another node or null
