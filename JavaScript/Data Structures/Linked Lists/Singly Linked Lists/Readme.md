@@ -9,7 +9,9 @@
 
 <details> <summary> Introduction </summary>
 
-## Objective
+```diff 
++ ## Objective 
+```
 
 - Define what a Singly Linked List is
 - Compare and contrast Linked Lists with Arrays
