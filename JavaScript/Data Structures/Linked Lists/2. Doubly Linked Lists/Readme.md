@@ -1,4 +1,4 @@
-# Doubly Linked DoublyLinkedLists
+# Doubly Linked Lists
 
 <details> <summary>Pre-requisites </summary>
 - Big O Notation
@@ -133,7 +133,7 @@ Removing a **node** from the Doubly Linked List at a **specific** position
 - Insertion - O(1)
 - Removal - O(1)
 - Searching - O(n)
-
+    
     Technically searching is O(n/2), but that's still O(n)
 
 - Access - O(n)
