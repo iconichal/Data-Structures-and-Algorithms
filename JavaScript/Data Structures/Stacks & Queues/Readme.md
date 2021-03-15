@@ -1,6 +1,7 @@
 # Stacks and Queues
 
 <details> <summary>Pre-requisites </summary>
+
 - Big O Notation
 - Data Structures Intro
 - Singly Linked Lists
