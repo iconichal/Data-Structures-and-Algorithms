@@ -9,7 +9,7 @@
 
 </details>
 
-<details?> <summary> Introduction to Stacks</summary>
+<details> <summary> Introduction to Stacks</summary>
 
 ## Objective
 
